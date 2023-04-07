@@ -6,25 +6,25 @@
 
 #### Git全局忽略文件
 
-![image-20230404101746638](D:\project\Git\images\image-20230404101746638.png)
+![image-20230404101746638](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230404101746638.png)
 
 
 
 # IDEA集成Git初始化本地仓库
 
-![image-20230404103834054](D:\project\Git\images\image-20230404103834054.png)
+![image-20230404103834054](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230404103834054.png)
 
 
 
 # IDEA集成Git切换版本
 
-![image-20230404110845150](D:\project\Git\images\image-20230404110845150.png)
+![image-20230404110845150](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230404110845150.png
 
 
 
 # IDEA集成Git创建和切换分支
 
-![image-20230404111328424](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404111328424.png)
+![image-20230404111328424](D:\project\Git\images\image-20230404111328424.png)
 
 
 
