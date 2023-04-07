@@ -23,7 +23,7 @@ git工作流程一般是这样的：
 
 3.将暂存区域的文件提交到git仓库
 
-![image-20230330175047084](D:\project\Git\images\image-20230330175047084.png)
+![image-20230330175047084](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230330175047084.png)
 
 Untracked：未跟踪，此文件在文件夹中，但并没有加入到git库，不参与版本控制，通过git add状态变为Staged。
 
