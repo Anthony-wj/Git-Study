@@ -24,7 +24,7 @@
 
 # IDEA集成Git创建和切换分支
 
-![image-20230404111328424](D:\project\Git\images\image-20230404111328424.png)
+![image-20230404111328424](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230404111328424.png)
 
 
 
