@@ -61,6 +61,6 @@ git clone 远程仓库地址
 
 # Github跨团队协作
 
-![image-20230403150839352](https://github.com/Anthony-wj/Git-Study/blob/master/images/image-20230403150839352.png)
+![image-20230403150839352](https://raw.githubusercontent.com/Anthony-wj/Git-Study/master/images/image-20230403150839352.png)
 
 # Github免密登录

@@ -6,19 +6,19 @@
 
 #### Git全局忽略文件
 
-![image-20230404101746638](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404101746638.png)
+![image-20230404101746638](D:\project\Git\images\image-20230404101746638.png)
 
 
 
 # IDEA集成Git初始化本地仓库
 
-![image-20230404103834054](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404103834054.png)
+![image-20230404103834054](D:\project\Git\images\image-20230404103834054.png)
 
 
 
 # IDEA集成Git切换版本
 
-![image-20230404110845150](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230404110845150.png)
+![image-20230404110845150](D:\project\Git\images\image-20230404110845150.png)
 
 
 
