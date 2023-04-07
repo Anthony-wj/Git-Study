@@ -4,7 +4,7 @@
 
 Git本地有四个工作区域：工作目录(Working Directory)、暂存区(Stage/Index)、资源库(Repository)、git仓库(Remote Directory)
 
-![image-20230330173624803](D:\project\Git\images\image-20230330173624803.png)
+![https://github.com/Anthony-wj/Git-Study/blob/master/images/image-20230330173624803.png)
 
 Workspace: 工作区，也就是平时存放项目代码的地方
 Index/Stage: 暂存区，用于临时存放你的变动。事实上它只是一个文件，保存即将提交到文件列表信
