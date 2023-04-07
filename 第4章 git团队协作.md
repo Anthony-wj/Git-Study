@@ -2,11 +2,11 @@
 
 #### 团队内协作
 
-![image-20230403141954853](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230403141954853.png)
+![image-20230403141954853](D:\project\Git\images\image-20230403141954853.png)
 
 #### 跨团队协作
 
-![image-20230403142200996](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230403142200996.png)
+![image-20230403142200996](D:\project\Git\images\image-20230403142200996.png)
 
 #### 创建别名
 
@@ -55,12 +55,12 @@ git clone 远程仓库地址
 
 # Github团队内协作
 
-![image-20230403150235761](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230403150235761.png)
+![image-20230403150235761](D:\project\Git\images\image-20230403150235761.png)
 
 
 
 # Github跨团队协作
 
-![image-20230403150839352](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230403150839352.png)
+![image-20230403150839352](D:\project\Git\images\image-20230403150839352.png)
 
 # Github免密登录
